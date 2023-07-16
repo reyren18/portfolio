@@ -311,6 +311,13 @@ span {
 .music{
   background-color: var(--bg-color);
 }
+.music .heading {
+  margin-bottom: 30px;
+}
+.music-container {
+  margin: auto;
+  width: 100rem;
+}
 
 .portfolio-layer a i {
   font-size: 2rem;
